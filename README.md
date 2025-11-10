@@ -8,13 +8,15 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love turning coffee ☕ into Flutter code 💙
  
-- 🙎‍♂️ About Me,
-  
-Hi, I'm Tajul Islam Akando, a passionate Flutter developer from Bangladesh 🇧🇩.
-I love building beautiful, fast, and user-friendly mobile apps using Flutter and Dart.
-My goal is to write clean, maintainable code and deliver smooth UI experiences that make apps stand out.
-I enjoy solving problems, learning new technologies, and turning creative ideas into real working apps.
-💡 “I believe great apps are built not just with code — but with care and creativity.”
+- 🙎‍♂️ About Me
+
+Hi, I'm **Tajul Islam Akando**, a passionate **Flutter developer** from **Bangladesh 🇧🇩**.  
+I love building beautiful, fast, and user-friendly mobile apps using **Flutter** and **Dart**.  
+My goal is to write clean, maintainable code and deliver smooth UI experiences that make apps stand out.  
+I enjoy solving problems, learning new technologies, and turning creative ideas into real working apps.  
+
+💡 *“I believe great apps are built not just with code — but with care and creativity.”*
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tajul01825) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tajul01825) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/tajulakondonetrokona09) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@tajul01825) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tajul01825) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@tajulakando023) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tajul01825@gmail.com) 
 
